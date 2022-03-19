@@ -647,6 +647,17 @@ button .button-1{
   } 
 }
 
+@media (min-width: 1024px) {
+  .m-button button{
+    display: none; 
+    margin-top: 80px; 
+    background-color: var(--primary);
+    
+  }
+  .m-button button:hover{
+    background-color: var(--primary);
+  }
+}
 
 
 
@@ -658,6 +669,7 @@ button .button-1{
   #mySidenav{
     display: none;
   }
+  
   
 }
 
