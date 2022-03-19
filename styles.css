@@ -728,9 +728,10 @@ button .button-1{
 
 .m-footer-section .right{
   padding-right: 30px;
-  line-height: 2;
 }
 
+.m-footer i{
+   font-size: 14px;
 }
 
 
