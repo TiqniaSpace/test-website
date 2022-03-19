@@ -693,7 +693,6 @@ button .button-1{
     background-color: var(--primary);
     border: 1px solid black;
     border-left-color: transparent;
-    
     color: black;
   }
 
@@ -704,6 +703,7 @@ button .button-1{
    padding: 50px 40px;
    color: white;
  }
+
  .m-footer-section ul {
    display: flex;
    justify-content: center;
@@ -716,6 +716,7 @@ button .button-1{
    color: white;
    text-decoration: none;
    padding-left: 20px;
+   font-size: 15px;
  }
 
 
