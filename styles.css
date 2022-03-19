@@ -29,8 +29,8 @@ body {
    align-items: center;
    background-color: #000;
    height: 70px;
-   position: fixed;
-   width: 100%;
+   /* position: fixed;
+   width: 100%; */
    z-index: 100;
 }
 
@@ -787,28 +787,3 @@ button .button-1{
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
