@@ -655,6 +655,9 @@ button .button-1{
     display: none;
     margin-top: 100px;
   }
+  #mySidenav{
+    display: none;
+  }
   
 }
 
